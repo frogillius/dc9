@@ -1,3 +1,5 @@
+# Destination: Cloud 9
+Destination: Cloud 9 is a vr flight sim/adventure game where you defend, repair, and upgrade your plane.
 # Mechanics
 - Flight simulation. No aerodynamic profiles, instead we will tune the simple simulation properties for the plane. The point of the game is to be fun, not realistic.
   Plane will have an upgradeable max speed with external parts like wings failing at speeds higher than they are rated for. They should have 3 speed faliure values: forward and back, left and right, and up and down. For horizantal stabilizers and wings, the last value will be very weak compared to the back and forward.
